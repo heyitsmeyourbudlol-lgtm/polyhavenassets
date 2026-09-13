@@ -1,0 +1,5 @@
+# Kit A→Z residual cite — polyhavenassets
+
+Needle: `OVERSEER_KIT_RUN_AE_2026_09_07` · `OVERSEER_KIT_RUN_D_LEAN_CITE_2026_09_10` · NO PAY
+- branch: `peer/kit-a-to-z-20260913T02165133`
+- ts: `2026-09-13T02:16:52Z`
